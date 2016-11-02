@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 import paramiko
 
@@ -24,5 +24,6 @@ if __name__ == "__main__":
                 def not_empty(i):
                     return i and i.strip()
                 ret = filter(not_empty,i)
-                print ret
+                if len(ret) < 10:continue
+                print [ret[0], ret[1], ret[10]]
             s.close()
