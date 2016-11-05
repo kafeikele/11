@@ -2,10 +2,10 @@
 import paramiko
 #from django.template import Template ,Context
 #from django.http import HttpResponse
-from django.shortcuts import render_to_response
+
 
 def index(req, template_name):
-
+    from django.shortcuts import render_to_response
     f = file('C:\\project\\pt_mon\\server\\views\\ip.txt', 'r')
     cs_111 = []
 
@@ -28,7 +28,6 @@ def index(req, template_name):
         lists = a.split('\n')
 
         cs_111.append(line)
-
         for i in lists:
             i = i.split(' ')
             def not_empty(i):
@@ -38,7 +37,6 @@ def index(req, template_name):
             c = [ret[0], ret[1], ret[10]]
 
             cs_111.append(c)
-
     print cs_111
     return render_to_response('test.html', {'cs_111':cs_111})
     #return render_to_response('test.html',{'cs_111':cs_111})
