@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15abff32-addb-4617-9553-c97e9e12c1bd" name="Default" comment="">
+    <list default="true" id="15abff32-addb-4617-9553-c97e9e12c1bd" name="Default" comment="add new study_project-1">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study_from_lscj/csvt01/blog/views.py" afterPath="$PROJECT_DIR$/study_from_lscj/csvt01/blog/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study_from_lscj/csvt01/csvt01/urls.py" afterPath="$PROJECT_DIR$/study_from_lscj/csvt01/csvt01/urls.py" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,8 +37,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt01/csvt01/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="399">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -45,8 +47,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt01/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="361">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -92,8 +94,8 @@
         <option value="$PROJECT_DIR$/pt_mon/server/views/test.py" />
         <option value="$PROJECT_DIR$/pt_mon/server/templates/test.html" />
         <option value="$PROJECT_DIR$/study_from_lscj/csvt01/csvt01/settings.py" />
-        <option value="$PROJECT_DIR$/study_from_lscj/csvt01/csvt01/urls.py" />
         <option value="$PROJECT_DIR$/study_from_lscj/csvt01/blog/templates/index.html" />
+        <option value="$PROJECT_DIR$/study_from_lscj/csvt01/csvt01/urls.py" />
         <option value="$PROJECT_DIR$/study_from_lscj/csvt01/blog/views.py" />
       </list>
     </option>
@@ -454,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478447836951</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add new study_project-1">
+      <created>1478447989890</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1478447989890</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -497,7 +506,8 @@
     <MESSAGE value="2" />
     <MESSAGE value="test_2 del &gt;" />
     <MESSAGE value="add new study_project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new study_project" />
+    <MESSAGE value="add new study_project-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new study_project-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -622,16 +632,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt01/csvt01/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="399">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt01/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="361">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
