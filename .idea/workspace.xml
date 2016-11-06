@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15abff32-addb-4617-9553-c97e9e12c1bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study_from_lscj/csvt01/blog/templates/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt_mon/paramiko.log" afterPath="$PROJECT_DIR$/pt_mon/paramiko.log" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -449,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478446879469</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add new study_project">
+      <created>1478447836951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1478447836951</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -491,7 +496,8 @@
     <MESSAGE value="test-1" />
     <MESSAGE value="2" />
     <MESSAGE value="test_2 del &gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="test_2 del &gt;" />
+    <MESSAGE value="add new study_project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new study_project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
