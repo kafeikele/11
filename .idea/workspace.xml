@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="15abff32-addb-4617-9553-c97e9e12c1bd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt_mon/paramiko.log" afterPath="$PROJECT_DIR$/pt_mon/paramiko.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt_mon/server/views/test.py" afterPath="$PROJECT_DIR$/pt_mon/server/views/test.py" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shengchan_111.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shengchan_111.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pt_mon/server/views/shengchan_111.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="63" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="63" />
+            <state relative-caret-position="76">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pt_mon/server/views/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="490">
+              <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -60,6 +62,9 @@
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
     </option>
   </component>
   <component name="IdeDocumentHistory">
@@ -364,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478444896651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test-1">
+      <created>1478444933931</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1478444933931</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -403,7 +415,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="test-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -486,18 +499,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pt_mon/server/views/test.py">
+    <entry file="file://$PROJECT_DIR$/pt_mon/server/views/shengchan_111.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="76">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pt_mon/server/views/shengchan_111.py">
+    <entry file="file://$PROJECT_DIR$/pt_mon/server/views/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="63" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="63" />
+        <state relative-caret-position="490">
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
           <folding />
         </state>
       </provider>
