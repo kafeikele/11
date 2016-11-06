@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15abff32-addb-4617-9553-c97e9e12c1bd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt_mon/paramiko.log" afterPath="$PROJECT_DIR$/pt_mon/paramiko.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt_mon/server/views/test.py" afterPath="$PROJECT_DIR$/pt_mon/server/views/test.py" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +22,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shengchan_111.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="shengchan_111.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pt_mon/server/views/shengchan_111.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
@@ -34,10 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pt_mon/server/views/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
+            <state relative-caret-position="684">
               <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
@@ -359,6 +357,14 @@
       <option name="presentableId" value="Default" />
       <updated>1478363452688</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1478444896651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1478444896651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -394,6 +400,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -476,18 +486,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pt_mon/server/views/shengchan_111.py">
+    <entry file="file://$PROJECT_DIR$/pt_mon/server/views/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="63" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="63" />
+        <state relative-caret-position="684">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pt_mon/server/views/test.py">
+    <entry file="file://$PROJECT_DIR$/pt_mon/server/views/shengchan_111.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="152">
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="63" />
           <folding />
         </state>
       </provider>
