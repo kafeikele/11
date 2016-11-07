@@ -10,8 +10,10 @@ class Employee(models.Model):
 #python.exe .\manage.py migrate
 '''
 
-class Server_Service(models.Model):
+class ServerService(models.Model):
     user = models.CharField(max_length=50)
     pid   = models.CharField(max_length=10)
     command = models.CharField(max_length=200)
     fileServer = models.CharField(max_length=200)
+    def __unicode__(self):
+        return self.user

@@ -4,7 +4,8 @@
     <list default="true" id="15abff32-addb-4617-9553-c97e9e12c1bd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/models.py" afterPath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/settings.py" afterPath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/views.py" afterPath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/urls.py" afterPath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/urls.py" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +28,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
+            <state relative-caret-position="575">
               <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
               <folding />
             </state>
@@ -37,11 +38,43 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="456">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,6 +114,9 @@
         <option value="$PROJECT_DIR$/study_from_lscj/csvt01/csvt01/urls.py" />
         <option value="$PROJECT_DIR$/study_from_lscj/csvt01/blog/views.py" />
         <option value="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/settings.py" />
+        <option value="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/templates/index.html" />
+        <option value="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/urls.py" />
+        <option value="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/views.py" />
         <option value="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/models.py" />
       </list>
     </option>
@@ -462,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478506087610</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="modify csvt02-database">
+      <created>1478508002222</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1478508002222</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -508,7 +551,8 @@
     <MESSAGE value="add new study_project-1" />
     <MESSAGE value="modify csvt01-views" />
     <MESSAGE value="modify csvt02" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify csvt02" />
+    <MESSAGE value="modify csvt02-database" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify csvt02-database" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -681,18 +725,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
+        <state relative-caret-position="575">
           <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="456">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
