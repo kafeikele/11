@@ -6,7 +6,7 @@
 </head>
 <body>
 {% for se in ser %}
-<div>{{se}}</div>
+<div>{{forloop.counter}} {{se}}</div>
 {% endfor %}
 </body>
 </html>
