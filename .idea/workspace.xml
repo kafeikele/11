@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15abff32-addb-4617-9553-c97e9e12c1bd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/project.iml" afterPath="$PROJECT_DIR$/.idea/project.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/models.py" afterPath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/settings.py" afterPath="$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/settings.py" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +27,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1559">
-              <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+            <state relative-caret-position="335">
+              <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -37,8 +37,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="384">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -63,7 +63,10 @@
       </map>
     </option>
     <option name="PUSH_TAGS">
-      <GitPushTagMode />
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
     </option>
   </component>
   <component name="IdeDocumentHistory">
@@ -452,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478448914183</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="modify csvt02">
+      <created>1478506087610</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1478506087610</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -497,7 +507,8 @@
     <MESSAGE value="add new study_project" />
     <MESSAGE value="add new study_project-1" />
     <MESSAGE value="modify csvt01-views" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify csvt01-views" />
+    <MESSAGE value="modify csvt02" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify csvt02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -665,23 +676,23 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#22#31#0" expanded="true" />
+            <element signature="e#22#31#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/csvt02/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1559">
-          <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
+        <state relative-caret-position="335">
+          <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/study_from_lscj/csvt02/csvt02/blog/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="384">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>

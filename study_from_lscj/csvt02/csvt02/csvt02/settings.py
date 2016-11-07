@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'csvt02.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'test',
+        'NAME': 'csvt',
         'USER': 'pt',
         'PASSWORD': '123',
         'HOST': '192.168.1.240',
